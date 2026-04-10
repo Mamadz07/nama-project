@@ -1,6 +1,0 @@
-name = "laravel-worker"
-main = "server.php" # Atau path ke adapter FrankenPHP/Workers
-compatibility_date = "2026-04-01"
-
-[site]
-bucket = "public"
